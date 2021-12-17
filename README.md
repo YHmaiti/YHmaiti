@@ -1,10 +1,10 @@
 # Introduction-about-Myself
-### so you want to know more about Yohan Hmaiti? Follow me -> 🧋
+### so you want to know more about Yohan Hmaiti? Follow me ->
 
--> 🖤 Computer Science @UCF class of 2024
--> :raised_hands: Fun fact: I can speak 6 languages and my favourite artist is PNL 
--> :link: https://www.linkedin.com/in/yohanisinit
--> :point_right: Open for internship opportunities
+- 🖤 Computer Science @UCF class of 2024
+- :raised_hands: Fun fact: I can speak 6 languages and my favourite artist is PNL 
+- :link: https://www.linkedin.com/in/yohanisinit
+- :point_right: Open for internship opportunities
 
 #### Yohan is a bright and talented computer scientist, he must be using a variety of tools and programming languages hmmm let's see:
 
