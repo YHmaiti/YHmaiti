@@ -28,6 +28,7 @@ For Fun:
 Tools/IDEs:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-orange?style=flat&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ-ff4db8?style=flat&logo=intellijidea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-VS_Code-ae54ff?style=flat&logo=visualstudiocode&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
