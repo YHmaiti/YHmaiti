@@ -6,7 +6,7 @@
 - :link: https://www.linkedin.com/in/yohanisinit
 - :point_right: Open for research/internship opportunities
 
-#### Yohan is a bright and talented computer scientist in the making, he must be using a variety of tools and programming languages hmmm let's see:
+#### Yohan is a bright computer scientist in the making, he must be using a variety of tools and programming languages hmmm let's see:
 
 Main Programming Languages:
 ![C](https://img.shields.io/badge/-C-8abf49?style=flat&logo=c&logoColor=white)
