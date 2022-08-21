@@ -35,6 +35,9 @@ hmmmm, what else does he do in his free time? oh we found these:
 
 I also contribute to Open Source CS Learning Content check the work we do here through WikiKnights: https://github.com/Wiki-Knights 
 
+##Note: 
+some of my projects are hidden and not shared here, to learn more feel free to reach out to me :) 
+
 Now some of his current stats ->
 ---
 
