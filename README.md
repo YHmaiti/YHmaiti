@@ -23,8 +23,8 @@ Tools/IDEs:
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-orange?style=flat&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-VS_Code-ae54ff?style=flat&logo=visualstudiocode&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flate&logo=github&logoColor=white)
 
 hmmmm, what else does he do in his free time? oh we found these:
 ![Spotify](https://img.shields.io/badge/-Music-8abf49?style=flat&logo=spotify&logoColor=white)
