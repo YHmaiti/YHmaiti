@@ -27,7 +27,6 @@ Tools/IDEs:
 
 hmmmm, what else does he do in his free time? oh we found these:
 ![Spotify](https://img.shields.io/badge/-Music-8abf49?style=flat&logo=spotify&logoColor=white)
-![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
 
 I also contribute to Open Source CS Learning Content check the work we do here through WikiKnights: https://github.com/Wiki-Knights 
 
