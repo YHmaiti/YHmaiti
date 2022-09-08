@@ -10,6 +10,7 @@ Main Programming Languages:
 ![Java](https://img.shields.io/badge/-Java-ae54ff?style=flat&logo=Java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-ff4db8?style=flat&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-Javascript-ff4d66?style=flat&logo=node.js&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-4eaff2?style=flat&logo=HTML5&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
