@@ -36,12 +36,13 @@ some of my projects are hidden and not shared here, to learn more feel free to r
 
 Current stats ->
 ---
-
-<div width="100%" align="center">
-  <img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YHmaiti&theme=transparent"/>
-</div>
-
 <p align="center">
 	<img height="165px" src="https://github-readme-stats.vercel.app/api?username=YHmaiti&show_icons=true&count_private=true&title_color=e041a0&text_color=1f1f1f&icon_color=368cc9">
 	<img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YHmaiti&layout=compact&count_private=false&hide=css&title_color=e041a0&text_color=1f1f1f&icon_color=368cc9">
 </p>
+
+<!---<div width="100%" align="center">
+  <img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YHmaiti&theme=transparent"/>
+</div> 
+---!>
+
