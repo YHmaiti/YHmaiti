@@ -4,6 +4,7 @@
 - :raised_hands: Fun fact: I can speak 6 languages and my favourite artist is PNL 
 - :link: https://www.linkedin.com/in/yohanisinit
 - :point_right: Open for research/internship opportunities
+- ![](https://komarev.com/ghpvc/?username=YHmaiti&color=orange)
 
 Main Programming Languages:
 ![C](https://img.shields.io/badge/-C-8abf49?style=flat&logo=c&logoColor=white)
