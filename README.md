@@ -1,8 +1,7 @@
 # Brief introduction about me:
 
-- 🖤 Computer Science @UCF class of 2024
-- :raised_hands: Fun fact: I can speak 6 languages and my favourite artist is PNL 
-- :link: https://www.linkedin.com/in/yohanisinit
+- 🖤 CS @UCF
+- :link: https://www.linkedin.com/in/yohanisinit (connect with me!)
 - :point_right: Open for research/internship opportunities
 - ![](https://komarev.com/ghpvc/?username=YHmaiti&color=orange)
 
