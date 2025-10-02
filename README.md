@@ -26,9 +26,6 @@ Tools/IDEs:
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flate&logo=github&logoColor=white)
 
-hmmmm, what else does he do in his free time? oh we found these:
-![Spotify](https://img.shields.io/badge/-Music-8abf49?style=flat&logo=spotify&logoColor=white)
-
 I also contribute to Open Source CS Learning Content check the work we do here through WikiKnights: https://github.com/Wiki-Knights 
 
 ##Note: 
